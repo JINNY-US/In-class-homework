@@ -10,6 +10,6 @@
 ![image](https://user-images.githubusercontent.com/57963888/110408576-29066980-80c9-11eb-9ba2-414530f51953.png)   
 
 ## In-Class Homework Week 2 Day 2 깃허브에 올리기   
-파일 주소는 여기 https://github.com/Kim-KyungJin/In-class-homework/tree/master
+파일 주소는 여기 https://github.com/Kim-KyungJin/In-class-homework/tree/master   
 ![in-class-homework-week2day2](https://user-images.githubusercontent.com/57963888/110595027-e031dc00-81c0-11eb-9bae-936a5cb7cc10.jpg)   
 ***   
