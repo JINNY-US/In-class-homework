@@ -22,6 +22,6 @@ https://youtu.be/wI3sZ239EAw
 제가 lost focus 예시를 이상하게 들었는데 영상을 다시 찍기에 시간이 부족해서 다른 예시를 여기다가 적으려고 합니다.   
 전화가 온 상황처럼 생각해주세요. 호출되는 함수가 똑같다는 것을 확인했습니다!   
 
-## In-Class Homework Week 4 Day 1 #1 Interface 사용
-파일 주소는 여기
+## In-Class Homework Week 4 Day 1 #1 Interface 사용   
+파일 주소는 여기 https://github.com/Kim-KyungJin/InterfaceDemo/tree/secondBranch   
 
