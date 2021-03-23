@@ -11,6 +11,7 @@
    
 ## In-Class Homework Week 2 Day 2 #2 깃허브에 올리기   
 파일 주소는 여기 https://github.com/Kim-KyungJin/In-class-homework/tree/master   
+   
 ![in-class-homework-week2day2](https://user-images.githubusercontent.com/57963888/110595027-e031dc00-81c0-11eb-9bae-936a5cb7cc10.jpg)   
    
 ***   
@@ -24,4 +25,5 @@ https://youtu.be/wI3sZ239EAw
 
 ## In-Class Homework Week 4 Day 1 #1 Interface 사용   
 파일 주소는 여기 https://github.com/Kim-KyungJin/InterfaceDemo/tree/secondBranch   
-
+   
+![image](https://user-images.githubusercontent.com/57963888/112087273-fe400900-8bd0-11eb-94f0-6c0ecd9d670e.png)   
