@@ -32,3 +32,8 @@ https://youtu.be/wI3sZ239EAw
 >혹시나 교수님께서 이 오류에 대해 알고계신다면 알려주세요.   
 
 ![image](https://user-images.githubusercontent.com/57963888/112087273-fe400900-8bd0-11eb-94f0-6c0ecd9d670e.png)   
+
+## In-Class Homework Week 4 Day 2 #1 ButtonApp   
+
+파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/rmHardCording   
+
