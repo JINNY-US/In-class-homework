@@ -8,13 +8,16 @@
 [Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework#in-class-homework-week-4-day-1-1-interface-%EC%82%AC%EC%9A%A9 "Week04 Homework")   
 [Week05 Homework](https://github.com/Kim-KyungJin/In-class-homework#in-class-homework-week-5-day-1-2-practice-inner-class-with-button-listener "Week05 Homework")   
 ***   
+## Week01 Homework   
 
-## In-Class Homework week1 Day 1 #1 안드로이드 테스트   
+### In-Class Homework week1 Day 1 #1 안드로이드 테스트   
 ![Android_경진](https://user-images.githubusercontent.com/57963888/110302278-696bd600-803c-11eb-880c-484a41f1b574.jpg)   
    
 ***   
    
-## In-Class Homework Week 2 Day 1 #1 내용바꾸기   
+## Week02 Homework   
+
+### In-Class Homework Week 2 Day 1 #1 내용바꾸기   
 ![image](https://user-images.githubusercontent.com/57963888/110408576-29066980-80c9-11eb-9ba2-414530f51953.png)   
    
 ## In-Class Homework Week 2 Day 2 #2 깃허브에 올리기   
@@ -24,7 +27,9 @@
    
 ***   
    
-## In-Class Homework Week 3 Day 1 #1 유튜브에 설명 영상 올리기   
+## Week03 Homework   
+
+### In-Class Homework Week 3 Day 1 #1 유튜브에 설명 영상 올리기   
    
 https://youtu.be/wI3sZ239EAw   
 영상 보시기 전에 읽어주세요!   
@@ -33,7 +38,9 @@ https://youtu.be/wI3sZ239EAw
    
 ***   
    
-## In-Class Homework Week 4 Day 1 #1 Interface 사용   
+## Week04 Homework   
+
+### In-Class Homework Week 4 Day 1 #1 Interface 사용   
 파일 주소는 여기 https://github.com/Kim-KyungJin/InterfaceDemo/tree/secondBranch   
    
 >교수님, 제가 사실 VCS - Import into Version Control - Share Project on Github 에서 항상 오류가 나타납니다ㅠㅠ
@@ -59,7 +66,9 @@ https://youtu.be/wI3sZ239EAw
    
 ***   
    
-## In-Class Homework Week 5 Day 1 #2 Practice Inner Class With Button Listener   
+## Week05 Homework   
+
+### In-Class Homework Week 5 Day 1 #2 Practice Inner Class With Button Listener   
 
 파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass      
 
