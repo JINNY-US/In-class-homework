@@ -59,7 +59,7 @@ https://youtu.be/wI3sZ239EAw
    
 ***   
    
-## In-Class Homework Week 5 Day 1 #2 Inner Class   
+## In-Class Homework Week 5 Day 1 #2 Practice Inner Class With Button Listener   
 
 파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/addListenerToButton   
 
@@ -74,5 +74,11 @@ https://youtu.be/wI3sZ239EAw
 #### InnerClassWoThis 생성   
 ![image](https://user-images.githubusercontent.com/57963888/112922296-3900ee80-9147-11eb-9747-3f330a8d91fb.png)   
   
+   
+## In-Class Homework Week 5 Day 1 #2 Multiple Button's OnClickListener   
+
+파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/addListenerToButton   
+
+![image](https://user-images.githubusercontent.com/57963888/112262090-66b1e780-8cb0-11eb-82a9-022f38453bb2.png)   
    
 ***  
