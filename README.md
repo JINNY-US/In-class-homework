@@ -79,6 +79,7 @@ https://youtu.be/wI3sZ239EAw
 
 파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/addListenerToButton   
 
-![image](https://user-images.githubusercontent.com/57963888/112262090-66b1e780-8cb0-11eb-82a9-022f38453bb2.png)   
+![image](https://user-images.githubusercontent.com/57963888/112928839-496a9680-9152-11eb-9d3f-d7307c642df7.png)
+![image](https://user-images.githubusercontent.com/57963888/112928866-54252b80-9152-11eb-9d89-7d5da9df71b9.png)   
    
 ***  
