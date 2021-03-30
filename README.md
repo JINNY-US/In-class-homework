@@ -17,13 +17,13 @@
    
 ## Week02 Homework   
 
-### In-Class Homework Week 2 Day 1 #1 내용바꾸기   
-![image](https://user-images.githubusercontent.com/57963888/110408576-29066980-80c9-11eb-9ba2-414530f51953.png)   
+- ### In-Class Homework Week 2 Day 1 #1 내용바꾸기   
+>![image](https://user-images.githubusercontent.com/57963888/110408576-29066980-80c9-11eb-9ba2-414530f51953.png)   
    
-### In-Class Homework Week 2 Day 2 #2 깃허브에 올리기   
-파일 주소는 여기 https://github.com/Kim-KyungJin/In-class-homework/tree/master   
+- ### In-Class Homework Week 2 Day 2 #2 깃허브에 올리기   
+>파일 주소는 여기 https://github.com/Kim-KyungJin/In-class-homework/tree/master   
    
-![in-class-homework-week2day2](https://user-images.githubusercontent.com/57963888/110595027-e031dc00-81c0-11eb-9bae-936a5cb7cc10.jpg)   
+>![in-class-homework-week2day2](https://user-images.githubusercontent.com/57963888/110595027-e031dc00-81c0-11eb-9bae-936a5cb7cc10.jpg)   
    
 ***   
    
@@ -40,29 +40,29 @@ https://youtu.be/wI3sZ239EAw
    
 ## Week04 Homework   
 
-### In-Class Homework Week 4 Day 1 #1 Interface 사용   
-파일 주소는 여기 https://github.com/Kim-KyungJin/InterfaceDemo/tree/secondBranch   
+- ### In-Class Homework Week 4 Day 1 #1 Interface 사용   
+>파일 주소는 여기 https://github.com/Kim-KyungJin/InterfaceDemo/tree/secondBranch   
    
->교수님, 제가 사실 VCS - Import into Version Control - Share Project on Github 에서 항상 오류가 나타납니다ㅠㅠ
->![image](https://user-images.githubusercontent.com/57963888/112087523-760e3380-8bd1-11eb-83a5-6a57e251058f.png)   
->그래서 깃허브에 올릴 때는 항상 git cmd를 사용하여 파일을 올리는데 아무리 검색해도 오류를 고칠 마땅한 방법이 나오지 않습니다.   
->혹시나 교수님께서 이 오류에 대해 알고계신다면 알려주세요.   
+>>교수님, 제가 사실 VCS - Import into Version Control - Share Project on Github 에서 항상 오류가 나타납니다ㅠㅠ   
+>>![image](https://user-images.githubusercontent.com/57963888/112087523-760e3380-8bd1-11eb-83a5-6a57e251058f.png)   
+>>그래서 깃허브에 올릴 때는 항상 git cmd를 사용하여 파일을 올리는데 아무리 검색해도 오류를 고칠 마땅한 방법이 나오지 않습니다.   
+>>혹시나 교수님께서 이 오류에 대해 알고계신다면 알려주세요.   
 
 ![image](https://user-images.githubusercontent.com/57963888/112087273-fe400900-8bd0-11eb-94f0-6c0ecd9d670e.png)   
 
-### In-Class Homework Week 4 Day 2 #1 ButtonApp   
+- ### In-Class Homework Week 4 Day 2 #1 ButtonApp   
 
-파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass   
+>파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass   
 
-![image](https://user-images.githubusercontent.com/57963888/112258058-2f8c0800-8ca9-11eb-87e8-bd37aa5dda1b.png)   
+>![image](https://user-images.githubusercontent.com/57963888/112258058-2f8c0800-8ca9-11eb-87e8-bd37aa5dda1b.png)   
    
    
 
-### In-Class Homework Week 4 Day 2 #2 Event listener   
+- ### In-Class Homework Week 4 Day 2 #2 Event listener   
 
-파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/addListenerToButton   
+>파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/addListenerToButton   
 
-![image](https://user-images.githubusercontent.com/57963888/112262090-66b1e780-8cb0-11eb-82a9-022f38453bb2.png)   
+>![image](https://user-images.githubusercontent.com/57963888/112262090-66b1e780-8cb0-11eb-82a9-022f38453bb2.png)   
    
 ***   
    
