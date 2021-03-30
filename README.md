@@ -77,7 +77,7 @@ https://youtu.be/wI3sZ239EAw
    
 ## In-Class Homework Week 5 Day 1 #2 Multiple Button's OnClickListener   
 
-파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/addListenerToButton   
+파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass/tree/listener4MultiButtons   
 
 ![image](https://user-images.githubusercontent.com/57963888/112928839-496a9680-9152-11eb-9d3f-d7307c642df7.png)
 ![image](https://user-images.githubusercontent.com/57963888/112928866-54252b80-9152-11eb-9d89-7d5da9df71b9.png)   
