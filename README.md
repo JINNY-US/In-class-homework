@@ -59,7 +59,7 @@ https://youtu.be/wI3sZ239EAw
 ![image](https://user-images.githubusercontent.com/57963888/112922043-c55ee180-9146-11eb-9370-814bc3b6d71e.png)   
 ![image](https://user-images.githubusercontent.com/57963888/112922095-d871b180-9146-11eb-842b-24b5128d68b9.png)   
 
-#### InnerClassWiTHis 생성 + 버튼리스너 삭제   
+#### InnerClassWiTHis 생성 + MyonClickListener 삭제   
 ![image](https://user-images.githubusercontent.com/57963888/112922207-0d7e0400-9147-11eb-90f4-63b8e97f6754.png)   
 ![image](https://user-images.githubusercontent.com/57963888/112922241-1969c600-9147-11eb-8b53-acb09b7d1da8.png)   
 
