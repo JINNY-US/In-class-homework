@@ -1,6 +1,14 @@
 # In-class-homework
 스마트모바일프로그램설계 과제   
 
+***   
+Week01 Homework   
+Week02 Homework   
+Week03 Homework   
+Week04 Homework   
+Week05 Homework   
+***   
+
 ## In-Class Homework week1 Day 1 #1 안드로이드 테스트   
 ![Android_경진](https://user-images.githubusercontent.com/57963888/110302278-696bd600-803c-11eb-880c-484a41f1b574.jpg)   
    
