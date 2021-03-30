@@ -37,7 +37,7 @@ https://youtu.be/wI3sZ239EAw
 
 ## In-Class Homework Week 4 Day 2 #1 ButtonApp   
 
-파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/rmHardCording   
+파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass   
 
 ![image](https://user-images.githubusercontent.com/57963888/112258058-2f8c0800-8ca9-11eb-87e8-bd37aa5dda1b.png)   
    
@@ -55,6 +55,16 @@ https://youtu.be/wI3sZ239EAw
 
 파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/addListenerToButton   
 
-![image](https://user-images.githubusercontent.com/57963888/112262090-66b1e780-8cb0-11eb-82a9-022f38453bb2.png)   
+#### 버튼리스너 생성   
+![image](https://user-images.githubusercontent.com/57963888/112922043-c55ee180-9146-11eb-9370-814bc3b6d71e.png)   
+![image](https://user-images.githubusercontent.com/57963888/112922095-d871b180-9146-11eb-842b-24b5128d68b9.png)   
+
+#### InnerClassWiTHis 생성 + 버튼리스너 삭제   
+![image](https://user-images.githubusercontent.com/57963888/112922207-0d7e0400-9147-11eb-90f4-63b8e97f6754.png)   
+![image](https://user-images.githubusercontent.com/57963888/112922241-1969c600-9147-11eb-8b53-acb09b7d1da8.png)   
+
+#### InnerClassWoThis 생성   
+![image](https://user-images.githubusercontent.com/57963888/112922296-3900ee80-9147-11eb-9747-3f330a8d91fb.png)   
+  
    
 ***  
