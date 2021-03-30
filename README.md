@@ -20,7 +20,7 @@
 ### In-Class Homework Week 2 Day 1 #1 내용바꾸기   
 ![image](https://user-images.githubusercontent.com/57963888/110408576-29066980-80c9-11eb-9ba2-414530f51953.png)   
    
-## In-Class Homework Week 2 Day 2 #2 깃허브에 올리기   
+### In-Class Homework Week 2 Day 2 #2 깃허브에 올리기   
 파일 주소는 여기 https://github.com/Kim-KyungJin/In-class-homework/tree/master   
    
 ![in-class-homework-week2day2](https://user-images.githubusercontent.com/57963888/110595027-e031dc00-81c0-11eb-9bae-936a5cb7cc10.jpg)   
@@ -50,7 +50,7 @@ https://youtu.be/wI3sZ239EAw
 
 ![image](https://user-images.githubusercontent.com/57963888/112087273-fe400900-8bd0-11eb-94f0-6c0ecd9d670e.png)   
 
-## In-Class Homework Week 4 Day 2 #1 ButtonApp   
+### In-Class Homework Week 4 Day 2 #1 ButtonApp   
 
 파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass   
 
@@ -58,7 +58,7 @@ https://youtu.be/wI3sZ239EAw
    
    
 
-## In-Class Homework Week 4 Day 2 #2 Event listener   
+### In-Class Homework Week 4 Day 2 #2 Event listener   
 
 파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/addListenerToButton   
 
@@ -84,7 +84,7 @@ https://youtu.be/wI3sZ239EAw
 ![image](https://user-images.githubusercontent.com/57963888/112922296-3900ee80-9147-11eb-9747-3f330a8d91fb.png)   
   
    
-## In-Class Homework Week 5 Day 1 #2 Multiple Button's OnClickListener   
+### In-Class Homework Week 5 Day 1 #2 Multiple Button's OnClickListener   
 
 파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass/tree/listener4MultiButtons   
 
