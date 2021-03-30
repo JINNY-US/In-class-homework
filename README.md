@@ -68,7 +68,7 @@ https://youtu.be/wI3sZ239EAw
    
 ## Week05 Homework   
 
-### In-Class Homework Week 5 Day 1 #2 Practice Inner Class With Button Listener   
+- ### In-Class Homework Week 5 Day 1 #2 Practice Inner Class With Button Listener   
 
 파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass      
 
@@ -84,7 +84,7 @@ https://youtu.be/wI3sZ239EAw
 ![image](https://user-images.githubusercontent.com/57963888/112922296-3900ee80-9147-11eb-9747-3f330a8d91fb.png)   
   
    
-### In-Class Homework Week 5 Day 1 #2 Multiple Button's OnClickListener   
+- ### In-Class Homework Week 5 Day 1 #2 Multiple Button's OnClickListener   
 
 파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass/tree/listener4MultiButtons   
 
