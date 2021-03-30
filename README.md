@@ -48,7 +48,7 @@ https://youtu.be/wI3sZ239EAw
 >>그래서 깃허브에 올릴 때는 항상 git cmd를 사용하여 파일을 올리는데 아무리 검색해도 오류를 고칠 마땅한 방법이 나오지 않습니다.   
 >>혹시나 교수님께서 이 오류에 대해 알고계신다면 알려주세요.   
 
-![image](https://user-images.githubusercontent.com/57963888/112087273-fe400900-8bd0-11eb-94f0-6c0ecd9d670e.png)   
+>![image](https://user-images.githubusercontent.com/57963888/112087273-fe400900-8bd0-11eb-94f0-6c0ecd9d670e.png)   
 
 - ### In-Class Homework Week 4 Day 2 #1 ButtonApp   
 
