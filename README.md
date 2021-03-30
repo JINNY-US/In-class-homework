@@ -2,11 +2,11 @@
 스마트모바일프로그램설계 과제   
 
 ***   
-[Week01 Homework](https://github.com/Kim-KyungJin/In-class-homework#in-class-homework-week1-day-1-1-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8 "Week01 Homework")   
-[Week02 Homework](https://github.com/Kim-KyungJin/In-class-homework#in-class-homework-week-2-day-1-1-%EB%82%B4%EC%9A%A9%EB%B0%94%EA%BE%B8%EA%B8%B0 "Week02 Homework")   
-[Week03 Homework](https://github.com/Kim-KyungJin/In-class-homework#in-class-homework-week-3-day-1-1-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EC%97%90-%EC%84%A4%EB%AA%85-%EC%98%81%EC%83%81-%EC%98%AC%EB%A6%AC%EA%B8%B0 "Week03 Homework")   
-[Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework#in-class-homework-week-4-day-1-1-interface-%EC%82%AC%EC%9A%A9 "Week04 Homework")   
-[Week05 Homework](https://github.com/Kim-KyungJin/In-class-homework#in-class-homework-week-5-day-1-2-practice-inner-class-with-button-listener "Week05 Homework")   
+[Week01 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week01-homework "Week01 Homework")   
+[Week02 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week02-homework "Week02 Homework")   
+[Week03 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week03-homework "Week03 Homework")   
+[Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
+[Week05 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week05-homework "Week05 Homework")   
 ***   
 ## Week01 Homework   
 
