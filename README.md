@@ -60,9 +60,7 @@ https://youtu.be/wI3sZ239EAw
 
 - ### In-Class Homework Week 4 Day 2 #2 Event listener   
 
->파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/addListenerToButton   
->>교수님, 혹시라도 이캠퍼스에 제출하는 링크가 Repositories링크가 아니라 In-class Homework 모음 링크여서 불편하시다면 말씀해주세요.   
->>보시기에 불편하실까봐 맨 위에 주차별로 하이퍼링크를 달아놓긴 했는데 교수님의 의도에 맞지 않으시다면 다음부터는 Repositories 링크를 첨부하겠습니다!   
+>파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonApp/tree/addListenerToButton     
 
 >![image](https://user-images.githubusercontent.com/57963888/112262090-66b1e780-8cb0-11eb-82a9-022f38453bb2.png)   
    
@@ -73,6 +71,8 @@ https://youtu.be/wI3sZ239EAw
 - ### In-Class Homework Week 5 Day 1 #2 Practice Inner Class With Button Listener   
 
 >파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass      
+>>교수님, 혹시라도 이캠퍼스에 제출하는 링크가 Repositories링크가 아니라 In-class Homework 모음 링크여서 불편하시다면 말씀해주세요.   
+>>보시기에 불편하실까봐 맨 위에 주차별로 하이퍼링크를 달아놓긴 했는데 교수님의 의도에 맞지 않으시다면 다음부터는 Repositories 링크를 첨부하겠습니다! 
 
 >#### 버튼리스너 생성   
 >![image](https://user-images.githubusercontent.com/57963888/112922043-c55ee180-9146-11eb-9370-814bc3b6d71e.png)   
