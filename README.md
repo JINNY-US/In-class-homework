@@ -95,8 +95,14 @@ https://youtu.be/wI3sZ239EAw
 >![image](https://user-images.githubusercontent.com/57963888/112928839-496a9680-9152-11eb-9d3f-d7307c642df7.png)
 >![image](https://user-images.githubusercontent.com/57963888/112928866-54252b80-9152-11eb-9d89-7d5da9df71b9.png)   
 
-- ### In-Class Homework Week 5 Day 1 #2 Anonymous class   
+- ### In-Class Homework Week 5 Day 2 #1 Anonymous class   
 >파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass/tree/listener4MultiButtons   
 >
+
+
+- ### In-Class Homework Week 5 Day 2 #2 Anonymous class for multiple buttons   
+>파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass/tree/listener4MultiButtons   
+>
+
 
 ***  
