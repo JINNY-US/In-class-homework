@@ -96,13 +96,19 @@ https://youtu.be/wI3sZ239EAw
 >![image](https://user-images.githubusercontent.com/57963888/112928866-54252b80-9152-11eb-9d89-7d5da9df71b9.png)   
 
 - ### In-Class Homework Week 5 Day 2 #1 Anonymous class   
->파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass/tree/listener4MultiButtons   
->
+>파일 주소는 여기 https://github.com/Kim-KyungJin/AnonymousInnerClass/tree/AnonymousInnerClass   
+
+>![image](https://user-images.githubusercontent.com/57963888/113094791-485a6780-922d-11eb-8b14-770bac397745.png)   
 
 
 - ### In-Class Homework Week 5 Day 2 #2 Anonymous class for multiple buttons   
->파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass/tree/listener4MultiButtons   
->
+>파일 주소는 여기 https://github.com/Kim-KyungJin/AnonymousInnerClass/tree/AnonymousClass4MultiBtns   
 
+>#### 2nd 버튼 생성   
+>>![image](https://user-images.githubusercontent.com/57963888/113094930-86578b80-922d-11eb-824e-1aa9453c2edf.png)   
+
+> #### 버튼 리스너 조작   
+>>![image](https://user-images.githubusercontent.com/57963888/113094835-5f00be80-922d-11eb-82b4-3d38b23805d9.png)   
+>>![image](https://user-images.githubusercontent.com/57963888/113094903-7b046000-922d-11eb-8f62-947ac299f3f6.png)   
 
 ***  
