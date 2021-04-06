@@ -7,8 +7,9 @@
  "Week01 day1")   
 
 [Week02 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week02-homework "Week02 Homework")   
->[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week02-homework
+>[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-2-day-1-1-%EB%82%B4%EC%9A%A9%EB%B0%94%EA%BE%B8%EA%B8%B0
  "Week02 day1")
+>[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-2-day-1-1-%EB%82%B4%EC%9A%A9%EB%B0%94%EA%BE%B8%EA%B8%B0 "week2 day2")
 
 [Week03 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week03-homework "Week03 Homework")   
 >
