@@ -15,16 +15,18 @@
 >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-3-day-1-1-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EC%97%90-%EC%84%A4%EB%AA%85-%EC%98%81%EC%83%81-%EC%98%AC%EB%A6%AC%EA%B8%B0 "week03 day1")
 
 [Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
->[Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
->[Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
+>[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-4-day-1-1-interface-%EC%82%AC%EC%9A%A9 "Week04 day1")   
+>[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-4-day-2-1-buttonapp
+ "Week04 day2")   
 
 [Week05 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week05-homework "Week05 Homework")   
->[Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
->[Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
+>[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-5-day-1-1-practice-inner-class-with-button-listener
+ "Week05 day1")   
+>[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-5-day-2-1-anonymous-class
+ "Week05 day2")   
 
 [Week06 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week06-homework "Week06 Homework")   
->[Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
->[Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
+>[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-6-day-1-1-sensor-list-with-scrollview "Week06 day1")   
 
 
 ***   
