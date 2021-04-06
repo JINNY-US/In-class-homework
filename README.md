@@ -12,7 +12,7 @@
 >[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-2-day-2-2-%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90-%EC%98%AC%EB%A6%AC%EA%B8%B0 "week2 day2")
 
 [Week03 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week03-homework "Week03 Homework")   
->
+>[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-3-day-1-1-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EC%97%90-%EC%84%A4%EB%AA%85-%EC%98%81%EC%83%81-%EC%98%AC%EB%A6%AC%EA%B8%B0 "week03 day1")
 
 [Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
 >[Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
