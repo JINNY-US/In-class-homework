@@ -7,6 +7,8 @@
 [Week03 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week03-homework "Week03 Homework")   
 [Week04 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week04-homework "Week04 Homework")   
 [Week05 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week05-homework "Week05 Homework")   
+[Week06 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week06-homework "Week06 Homework")   
+
 ***   
 ## Week01 Homework   
 
@@ -68,7 +70,7 @@ https://youtu.be/wI3sZ239EAw
    
 ## Week05 Homework   
 
-- ### In-Class Homework Week 5 Day 1 #2 Practice Inner Class With Button Listener   
+- ### In-Class Homework Week 5 Day 1 #1 Practice Inner Class With Button Listener   
 
 >파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass      
 >>교수님, 혹시라도 이캠퍼스에 제출하는 링크가 Repositories링크가 아니라 In-class Homework 모음 링크여서 불편하시다면 말씀해주세요.   
@@ -85,15 +87,15 @@ https://youtu.be/wI3sZ239EAw
 >#### InnerClassWoThis 생성   
 >![image](https://user-images.githubusercontent.com/57963888/112922296-3900ee80-9147-11eb-9747-3f330a8d91fb.png)   
      
-        
-           
-   
+  
 - ### In-Class Homework Week 5 Day 1 #2 Multiple Button's OnClickListener   
 
 >파일 주소는 여기 https://github.com/Kim-KyungJin/ButtonWiInnerClass/tree/listener4MultiButtons   
 
 >![image](https://user-images.githubusercontent.com/57963888/112928839-496a9680-9152-11eb-9d3f-d7307c642df7.png)
 >![image](https://user-images.githubusercontent.com/57963888/112928866-54252b80-9152-11eb-9d89-7d5da9df71b9.png)   
+
+
 
 - ### In-Class Homework Week 5 Day 2 #1 Anonymous class   
 >파일 주소는 여기 https://github.com/Kim-KyungJin/AnonymousInnerClass/tree/AnonymousInnerClass   
@@ -112,3 +114,31 @@ https://youtu.be/wI3sZ239EAw
 >>![image](https://user-images.githubusercontent.com/57963888/113094903-7b046000-922d-11eb-8f62-947ac299f3f6.png)   
 
 ***  
+
+## Week06 Homework   
+
+- ### In-Class Homework Week 6 Day 1 #1 Sensor List With ScrollView  
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/getSensorList/tree/sensorListWiScrollView   
+
+>#### ScrollView 생성
+>![image](https://user-images.githubusercontent.com/57963888/113650872-ec2f9180-96cb-11eb-8f13-88271918d487.png)   
+>![image](https://user-images.githubusercontent.com/57963888/113650955-108b6e00-96cc-11eb-8fe2-db06e569ff97.png)   
+
+
+- ### In-Class Homework Week 6 Day 1 #2 Get Sensor List Using ScrollView + Button   
+>파일 주소는 여기 https://github.com/Kim-KyungJin/getSensorList/tree/sensorListingButton   
+
+>#### 버튼 생성   
+>![image](https://user-images.githubusercontent.com/57963888/113651156-6f50e780-96cc-11eb-8fd6-2625e4b125f0.png)   
+
+>#### 버튼 이벤트 리스너 추가   
+>![image](https://user-images.githubusercontent.com/57963888/113651222-93142d80-96cc-11eb-8b08-2b8c932f631e.png)   
+
+
+- ### In-Class Homework Week 6 Day 1 #3 OnCLickListener Outside OnCreate   
+>파일 주소는 여기 https://github.com/Kim-KyungJin/getSensorList/tree/onClickOutsideOnCreate   
+
+>![image](https://user-images.githubusercontent.com/57963888/113651337-c48cf900-96cc-11eb-82f1-3d3a57639e4b.png)   
+
+
