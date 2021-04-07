@@ -27,7 +27,8 @@
 
 [Week06 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week06-homework "Week06 Homework")   
 >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-6-day-1-1-sensor-list-with-scrollview "Week06 day1")   
-
+>[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-6-day-2-1-button-to-list-loc-providers
+ "Week06 day2")
 
 ***   
 ## Week01 Homework   
