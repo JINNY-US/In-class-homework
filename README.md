@@ -162,3 +162,22 @@ https://youtu.be/wI3sZ239EAw
 >![image](https://user-images.githubusercontent.com/57963888/113651337-c48cf900-96cc-11eb-82f1-3d3a57639e4b.png)   
 
 
+
+- ### In-Class Homework Week 6 Day 2 #1 Button to List Loc. Providers  
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/LocProviderList/tree/addButton   
+
+>#### 버튼 추가
+>![image](https://user-images.githubusercontent.com/57963888/113825510-08126080-97bc-11eb-8c88-ae0b0f4e95f5.png)
+
+
+- ### In-Class Homework Week 6 Day 2 #2 Enhanced For Loop  
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/LocProviderList/tree/addButton   
+
+
+>#### Enhanced for문 사용
+>![image](https://user-images.githubusercontent.com/57963888/113825684-40b23a00-97bc-11eb-8b11-1b099a36ea7b.png)   
+>![image](https://user-images.githubusercontent.com/57963888/113824251-840ba900-97ba-11eb-92b9-ed58397b3b4d.png)   
+
+
