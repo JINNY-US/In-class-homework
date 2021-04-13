@@ -193,7 +193,11 @@ https://youtu.be/wI3sZ239EAw
 >파일 주소는 여기 https://github.com/Kim-KyungJin/LocProviderInfo   
 
 
->#### Enhanced for문 사용
->![image](https://user-images.githubusercontent.com/57963888/113825684-40b23a00-97bc-11eb-8b11-1b099a36ea7b.png)   
->![image](https://user-images.githubusercontent.com/57963888/113824251-840ba900-97ba-11eb-92b9-ed58397b3b4d.png)   
-location providers' information
+>#### Enhanced for문 사용   
+>![image](https://user-images.githubusercontent.com/57963888/114491353-79855f80-9c51-11eb-9057-ed38a036a0cf.png)   
+
+>#### PrintInfo 함수 생성   
+>![image](https://user-images.githubusercontent.com/57963888/114491403-8d30c600-9c51-11eb-87da-61796b7e50ed.png)   
+   
+
+
