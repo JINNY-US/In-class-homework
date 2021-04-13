@@ -29,6 +29,9 @@
 >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-6-day-1-1-sensor-list-with-scrollview "Week06 day1")   
 >[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-6-day-2-1-button-to-list-loc-providers
  "Week06 day2")
+ 
+ [Week07 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week07-homework "Week07 Homework")   
+ >[day1]( "Week07 day1")
 
 ***   
 ## Week01 Homework   
@@ -181,4 +184,14 @@ https://youtu.be/wI3sZ239EAw
 >![image](https://user-images.githubusercontent.com/57963888/113825684-40b23a00-97bc-11eb-8b11-1b099a36ea7b.png)   
 >![image](https://user-images.githubusercontent.com/57963888/113824251-840ba900-97ba-11eb-92b9-ed58397b3b4d.png)   
 
+***
 
+- ### In-Class Homework Week 7 Day 1 #1 location providers' information   
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/LocProviderList/tree/addButton   
+
+
+>#### Enhanced for문 사용
+>![image](https://user-images.githubusercontent.com/57963888/113825684-40b23a00-97bc-11eb-8b11-1b099a36ea7b.png)   
+>![image](https://user-images.githubusercontent.com/57963888/113824251-840ba900-97ba-11eb-92b9-ed58397b3b4d.png)   
+location providers' information
