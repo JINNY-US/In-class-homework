@@ -186,9 +186,11 @@ https://youtu.be/wI3sZ239EAw
 
 ***
 
+## Week07 Homework   
+
 - ### In-Class Homework Week 7 Day 1 #1 location providers' information   
 
->파일 주소는 여기 https://github.com/Kim-KyungJin/LocProviderList/tree/addButton   
+>파일 주소는 여기 https://github.com/Kim-KyungJin/LocProviderInfo   
 
 
 >#### Enhanced for문 사용
