@@ -31,7 +31,7 @@
  "Week06 day2")
  
  [Week07 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week07-homework "Week07 Homework")   
- >[day1]( "Week07 day1")
+ >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-7-day-1-1-location-providers-information "Week07 day1")
 
 ***   
 ## Week01 Homework   
