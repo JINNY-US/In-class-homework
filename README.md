@@ -206,7 +206,7 @@ https://youtu.be/wI3sZ239EAw
 ***   
 
 
-## Week07 Homework   
+## Week08 Homework   
 
 - ### In-Class Homework Week 8 Day 1 #1 Compass + Map   
 
