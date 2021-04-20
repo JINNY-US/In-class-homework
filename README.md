@@ -31,7 +31,10 @@
  "Week06 day2")
  
  [Week07 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week07-homework "Week07 Homework")   
- >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-7-day-1-1-location-providers-information "Week07 day1")
+ >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-7-day-1-1-location-providers-information "Week07 day1")   
+ 
+ [Week08 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week08-homework "Week08 Homework")   
+ >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-7-day-1-1-location-providers-information "Week08 day1")
 
 ***   
 ## Week01 Homework   
@@ -199,5 +202,26 @@ https://youtu.be/wI3sZ239EAw
 >#### PrintInfo 함수 생성   
 >![image](https://user-images.githubusercontent.com/57963888/114491403-8d30c600-9c51-11eb-87da-61796b7e50ed.png)   
    
+
+***   
+
+
+## Week07 Homework   
+
+- ### In-Class Homework Week 8 Day 1 #1 Compass + Map   
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/CompassAppWiBtn/tree/googleMap   
+
+
+>#### 지도를 띄우기 위한 액티비티 추가   
+>![image](https://user-images.githubusercontent.com/57963888/115330520-2b330c00-a1cf-11eb-940e-ea96c992078d.png)   
+
+>#### 버튼 추가 및 리스너 추가   
+>![image](https://user-images.githubusercontent.com/57963888/115330615-69c8c680-a1cf-11eb-9eb4-c01679432a07.png)   
+
+>#### 지도 띄우기   
+>![image](https://user-images.githubusercontent.com/57963888/115330737-9e3c8280-a1cf-11eb-9897-1527dab86285.png)   
+
+
 
 
