@@ -34,7 +34,7 @@
  >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-7-day-1-1-location-providers-information "Week07 day1")   
  
  [Week08 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week08-homework "Week08 Homework")   
- >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-7-day-1-1-location-providers-information "Week08 day1")
+ >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-8-day-1-1-compass--map "Week08 day1")
 
 ***   
 ## Week01 Homework   
