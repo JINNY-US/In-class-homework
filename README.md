@@ -37,7 +37,7 @@
  >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-8-day-1-1-compass--map "Week08 day1")
  
  [Week09 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week09-homework "Week09 Homework")   
- >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-9-day-1-1-compass--map "Week09 day1")
+ >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-9-day-1-1-hello-kotlin "Week09 day1")
 
 ***   
 ## Week01 Homework   
@@ -246,13 +246,22 @@ https://youtu.be/wI3sZ239EAw
 >![image](https://user-images.githubusercontent.com/57963888/116178027-d3a51b00-a74f-11eb-9fc5-f321a3efc869.png)   
 
 >#### 실행화면   
->![image](https://user-images.githubusercontent.com/57963888/116178311-48785500-a750-11eb-8617-e5a74b59bc1b.png)
+>![image](https://user-images.githubusercontent.com/57963888/116178311-48785500-a750-11eb-8617-e5a74b59bc1b.png)   
 >![image](https://user-images.githubusercontent.com/57963888/116178363-6645ba00-a750-11eb-9e1b-870db6a9521f.png)
 >![image](https://user-images.githubusercontent.com/57963888/116178348-5a59f800-a750-11eb-88df-75163073dec4.png)   
->>JAVA   
+>
+>>Java   
 >>![image](https://user-images.githubusercontent.com/57963888/116178450-8ffee100-a750-11eb-9918-5b1ab805ad63.png)
-![image](https://user-images.githubusercontent.com/57963888/116178487-a0af5700-a750-11eb-9b8a-e9bb8ada0ba0.png)
-![image](https://user-images.githubusercontent.com/57963888/116178538-b4f35400-a750-11eb-8436-d67d962b63c6.png)
+>>![image](https://user-images.githubusercontent.com/57963888/116178487-a0af5700-a750-11eb-9b8a-e9bb8ada0ba0.png)
+>>
+>>Kotlin   
+>>![image](https://user-images.githubusercontent.com/57963888/116178700-0865a200-a751-11eb-917d-9b34524d84d2.png)
+>>![image](https://user-images.githubusercontent.com/57963888/116178718-13b8cd80-a751-11eb-94b2-6e2989b8a0b7.png)
+
+
+
+
+
 
 
 
