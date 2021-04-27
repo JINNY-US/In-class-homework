@@ -35,6 +35,9 @@
  
  [Week08 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week08-homework "Week08 Homework")   
  >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-8-day-1-1-compass--map "Week08 day1")
+ 
+ [Week09 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week09-homework "Week09 Homework")   
+ >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-9-day-1-1-compass--map "Week09 day1")
 
 ***   
 ## Week01 Homework   
@@ -222,6 +225,34 @@ https://youtu.be/wI3sZ239EAw
 >#### 지도 띄우기   
 >![image](https://user-images.githubusercontent.com/57963888/115330737-9e3c8280-a1cf-11eb-9897-1527dab86285.png)   
 
+
+***   
+
+
+## Week09 Homework   
+
+- ### In-Class Homework Week 9 Day 1 #1 Hello Kotlin   
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/HelloKotlin   
+
+
+>#### BMI를 계산할 액티비티 추가   
+>![image](https://user-images.githubusercontent.com/57963888/116177894-980a5100-a74f-11eb-99c1-e56fc59872be.png)   
+
+>#### Java로 If, try&catch 작성하기   
+>![image](https://user-images.githubusercontent.com/57963888/116178226-1ebf2e00-a750-11eb-9718-a49b4983b3ff.png)   
+
+>#### Kotlin으로 try&catch 작성하기   
+>![image](https://user-images.githubusercontent.com/57963888/116178027-d3a51b00-a74f-11eb-9fc5-f321a3efc869.png)   
+
+>#### 실행화면   
+>![image](https://user-images.githubusercontent.com/57963888/116178311-48785500-a750-11eb-8617-e5a74b59bc1b.png)
+>![image](https://user-images.githubusercontent.com/57963888/116178363-6645ba00-a750-11eb-9e1b-870db6a9521f.png)
+>![image](https://user-images.githubusercontent.com/57963888/116178348-5a59f800-a750-11eb-88df-75163073dec4.png)   
+>>JAVA   
+>>![image](https://user-images.githubusercontent.com/57963888/116178450-8ffee100-a750-11eb-9918-5b1ab805ad63.png)
+![image](https://user-images.githubusercontent.com/57963888/116178487-a0af5700-a750-11eb-9b8a-e9bb8ada0ba0.png)
+![image](https://user-images.githubusercontent.com/57963888/116178538-b4f35400-a750-11eb-8436-d67d962b63c6.png)
 
 
 
