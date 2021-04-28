@@ -37,8 +37,8 @@
  >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-8-day-1-1-compass--map "Week08 day1")
  
  [Week09 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week09-homework "Week09 Homework")   
- >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-9-day-1-1-hello-kotlin "Week09 day1")
- >[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-9-day-1-1-hello-kotlin "Week09 day2")
+ >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-9-day-1-1-hello-kotlin "Week09 day1")   
+ >[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-9-day-2-1-Time-Elapsed "Week09 day2")   
 
 ***   
 ## Week01 Homework   
