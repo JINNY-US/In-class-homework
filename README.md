@@ -38,6 +38,7 @@
  
  [Week09 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week09-homework "Week09 Homework")   
  >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-9-day-1-1-hello-kotlin "Week09 day1")
+ >[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-9-day-1-1-hello-kotlin "Week09 day2")
 
 ***   
 ## Week01 Homework   
@@ -259,9 +260,42 @@ https://youtu.be/wI3sZ239EAw
 >>![image](https://user-images.githubusercontent.com/57963888/116178718-13b8cd80-a751-11eb-94b2-6e2989b8a0b7.png)
 
 
+- ### In-Class Homework Week 9 Day 2 #1 Time Elapsed   
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/HelloKotlin/tree/TimeElapsed   
+
+>JAVA
+>#### TextView 추가   
+>![image](https://user-images.githubusercontent.com/57963888/116356405-2eb13d80-a836-11eb-9f31-45594eebd5e8.png)   
+>![image](https://user-images.githubusercontent.com/57963888/116356463-3e308680-a836-11eb-8cb2-2b8ca0f5e469.png)   
+>
+>
+>#### Long 타입으로 시간 맞추기   
+>![image](https://user-images.githubusercontent.com/57963888/116356582-6d46f800-a836-11eb-95d5-eaecb43f13a4.png)   
+>
+>
+>#### TextView에 적용하기   
+>![image](https://user-images.githubusercontent.com/57963888/116356623-7a63e700-a836-11eb-8582-b4da968e8fc5.png)   
+>
+>>![image](https://user-images.githubusercontent.com/57963888/116356995-efcfb780-a836-11eb-98f4-6fef4642295c.png)
+>>![image](https://user-images.githubusercontent.com/57963888/116357030-fbbb7980-a836-11eb-9596-04a26c12ce08.png)   
 
 
 
+>KOTLIN
+>#### TextView 추가   
+>![image](https://user-images.githubusercontent.com/57963888/116356833-bf881900-a836-11eb-9d34-d16c44a2e534.png)   
+>
+>
+>#### Long 타입으로 시간 맞추기   
+>![image](https://user-images.githubusercontent.com/57963888/116356884-cdd63500-a836-11eb-9198-f40929cf7021.png)   
+>
+>
+>#### TextView에 적용하기   
+>![image](https://user-images.githubusercontent.com/57963888/116356911-d890ca00-a836-11eb-8fd7-b75c7c47c281.png)   
+>
+>>![image](https://user-images.githubusercontent.com/57963888/116357087-0b3ac280-a837-11eb-81a9-10ef369c9cb9.png)
+>>![image](https://user-images.githubusercontent.com/57963888/116357122-168dee00-a837-11eb-8f92-3d7fbc40127e.png)   
 
 
 
