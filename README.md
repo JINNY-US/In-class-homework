@@ -264,7 +264,7 @@ https://youtu.be/wI3sZ239EAw
 
 >파일 주소는 여기 https://github.com/Kim-KyungJin/HelloKotlin/tree/TimeElapsed   
 
->JAVA
+>####*JAVA*
 >#### TextView 추가   
 >![image](https://user-images.githubusercontent.com/57963888/116356405-2eb13d80-a836-11eb-9f31-45594eebd5e8.png)   
 >![image](https://user-images.githubusercontent.com/57963888/116356463-3e308680-a836-11eb-8cb2-2b8ca0f5e469.png)   
@@ -282,7 +282,7 @@ https://youtu.be/wI3sZ239EAw
 
 
 
->KOTLIN
+>####*KOTLIN*
 >#### TextView 추가   
 >![image](https://user-images.githubusercontent.com/57963888/116356833-bf881900-a836-11eb-9d34-d16c44a2e534.png)   
 >
@@ -296,6 +296,4 @@ https://youtu.be/wI3sZ239EAw
 >
 >>![image](https://user-images.githubusercontent.com/57963888/116357087-0b3ac280-a837-11eb-81a9-10ef369c9cb9.png)
 >>![image](https://user-images.githubusercontent.com/57963888/116357122-168dee00-a837-11eb-8f92-3d7fbc40127e.png)   
-
-
 
