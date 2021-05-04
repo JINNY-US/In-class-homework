@@ -41,7 +41,7 @@
  >[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-9-day-2-1-Time-Elapsed "Week09 day2")   
  
  [Week10 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week10-homework "Week10 Homework")   
- >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-10-day-1-1-Flow-Control "Week10 day1")   
+ >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-10-day-1-1-switch-case "Week10 day1")   
 
 ***   
 ## Week01 Homework   
