@@ -304,13 +304,21 @@ https://youtu.be/wI3sZ239EAw
 
 ## Week10 Homework   
 
-- ### In-Class Homework Week 10 Day 1 #1 Flow Control   
+- ### In-Class Homework Week 10 Day 1 #1 switch의 case 합치기   
 
 >파일 주소는 여기 https://github.com/Kim-KyungJin/HelloKotlin/tree/FlowControl   
 
 >#### switch   
 >![image](https://user-images.githubusercontent.com/57963888/116950919-71a16400-acc1-11eb-9b86-24ef67671b4f.png)   
 >
-  
+ 
+ 
+ 
+- ### In-Class Homework Week 10 Day 1 #2 Kotlin when
+   
 
+>파일 주소는 여기 https://github.com/Kim-KyungJin/HelloKotlin/tree/FlowControl   
 
+>#### when   
+>![image](https://user-images.githubusercontent.com/57963888/116952640-1b82ef80-acc6-11eb-8351-7dfe7e4998ab.png)   
+>
