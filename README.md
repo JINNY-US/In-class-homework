@@ -297,3 +297,15 @@ https://youtu.be/wI3sZ239EAw
 >>![image](https://user-images.githubusercontent.com/57963888/116357087-0b3ac280-a837-11eb-81a9-10ef369c9cb9.png)
 >>![image](https://user-images.githubusercontent.com/57963888/116357122-168dee00-a837-11eb-8f92-3d7fbc40127e.png)   
 
+***   
+
+- ### In-Class Homework Week 10 Day 1 #1 Flow Control   
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/HelloKotlin/tree/FlowControl   
+
+>#### switch   
+>![image](https://user-images.githubusercontent.com/57963888/116950919-71a16400-acc1-11eb-9b86-24ef67671b4f.png)   
+>
+  
+
+
