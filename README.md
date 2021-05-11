@@ -42,6 +42,9 @@
  
  [Week10 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week10-homework "Week10 Homework")   
  >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-10-day-1-1-switch%EC%9D%98-case-%ED%95%A9%EC%B9%98%EA%B8%B0 "Week10 day1")   
+ 
+ [Week11 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week11-homework "Week11 Homework")   
+ >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-11-day-1-1-Switching-Activity "Week11 day1")
 
 ***   
 ## Week01 Homework   
@@ -321,4 +324,29 @@ https://youtu.be/wI3sZ239EAw
 
 >#### when   
 >![image](https://user-images.githubusercontent.com/57963888/116952640-1b82ef80-acc6-11eb-8351-7dfe7e4998ab.png)   
+>
+
+
+## Week11 Homework   
+
+- ### In-Class Homework Week 11 Day 1 #1 Switching Activity   
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/Lotto/tree/pracSwitchingActivities   
+
+>#### practice switching activities   
+>![image](https://user-images.githubusercontent.com/57963888/117752069-1c30fe00-b251-11eb-85e4-d34ab6e5fcf1.png)   
+>
+ 
+ 
+ 
+- ### In-Class Homework Week 11 Day 1 #2 Lotto menu
+   
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/Lotto/tree/Menu   
+
+>#### build.gradle에 cardView 추가   
+>![image](https://user-images.githubusercontent.com/57963888/117752161-471b5200-b251-11eb-93cc-87d62185e415.png)   
+>
+>#### activity_main에 이미지 추가   
+>![image](https://user-images.githubusercontent.com/57963888/117751754-9614b780-b250-11eb-844a-ab883e8ff164.png)   
 >
