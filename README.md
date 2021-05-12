@@ -354,7 +354,7 @@ https://youtu.be/wI3sZ239EAw
 >
 
 
-- ### In-Class Homework Week 11 Day 2 #1 Open ContellationActivity
+- ### In-Class Homework Week 11 Day 2 #1 Open ConstellationActivity
    
 
 >파일 주소는 여기 https://github.com/Kim-KyungJin/Lotto/tree/OpenContellationActivity   
