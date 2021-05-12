@@ -358,6 +358,8 @@ https://youtu.be/wI3sZ239EAw
    
 
 >파일 주소는 여기 https://github.com/Kim-KyungJin/Lotto/tree/OpenContellationActivity   
+>branch 생성할 때 오타가 났는데 push하고 나서 다시 rename했습니다.   
+>지금은 안드로이드 스튜디오에서 제대로 보여요.   
 
 >#### MainActivity에 OnCLickListener 등록   
 >![image](https://user-images.githubusercontent.com/57963888/117922977-41476e80-b32e-11eb-83f7-bd2c0b7d2306.png)   
