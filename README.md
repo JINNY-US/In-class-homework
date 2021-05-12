@@ -44,7 +44,9 @@
  >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-10-day-1-1-switch%EC%9D%98-case-%ED%95%A9%EC%B9%98%EA%B8%B0 "Week10 day1")   
  
  [Week11 Homework](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#week11-homework "Week11 Homework")   
- >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-11-day-1-1-Switching-Activity "Week11 day1")
+ >[day1](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-11-day-1-1-Switching-Activity "Week11 day1")   
+ >[day2](https://github.com/Kim-KyungJin/In-class-homework/blob/main/README.md#in-class-homework-week-11-day-2-1-Open-ConstellationActivity "Week11 day2")   
+
 
 ***   
 ## Week01 Homework   
@@ -350,3 +352,15 @@ https://youtu.be/wI3sZ239EAw
 >#### activity_main에 이미지 추가   
 >![image](https://user-images.githubusercontent.com/57963888/117751754-9614b780-b250-11eb-844a-ab883e8ff164.png)   
 >
+
+
+- ### In-Class Homework Week 11 Day 2 #1 Open ContellationActivity
+   
+
+>파일 주소는 여기 https://github.com/Kim-KyungJin/Lotto/tree/OpenContellationActivity   
+
+>#### MainActivity에 OnCLickListener 등록   
+>![image](https://user-images.githubusercontent.com/57963888/117922977-41476e80-b32e-11eb-83f7-bd2c0b7d2306.png)   
+>
+
+
